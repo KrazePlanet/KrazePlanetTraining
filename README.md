@@ -2,7 +2,8 @@
 Free BugBounty KrazePlanetTraining
 
 ## Day1 - Recon Basics: Burp, Dorking & Shodan Walkthrough:
-Link: https://youtu.be/0AS3-Pnj8pk
+- GLink: https://github.com/KrazePlanet/KrazePlanetTraining/tree/main/Day1
+- YTLink: https://youtu.be/0AS3-Pnj8pk
 ### Timestamps
 - [`00:00:00 — Start`](https://youtu.be/0AS3-Pnj8pk?t=0)
 - [`00:02:15 — Google Dorking Techniques`](https://youtu.be/0AS3-Pnj8pk?t=135)
@@ -16,7 +17,8 @@ Link: https://youtu.be/0AS3-Pnj8pk
 
 
 ## Day2 - Recon Deep Dive: SSL, Favicon & ASN Info + Revision:
-Link: https://youtu.be/6L3RrbDpzDk
+- GLink: https://github.com/KrazePlanet/KrazePlanetTraining/tree/main/Day2
+- YTLink: https://youtu.be/6L3RrbDpzDk
 ### Timestamps
 - [`00:00:00 — Start`](https://youtu.be/6L3RrbDpzDk?t=0)
 - [`00:00:12 — Previous Day (revision)`](https://youtu.be/6L3RrbDpzDk?t=12)
@@ -31,7 +33,8 @@ Link: https://youtu.be/6L3RrbDpzDk
 
 
 ## Day4 - Live Bug Bounty Hunting on Google:
-Link: https://youtu.be/KKjR3tiu7wE
+- GLink: https://github.com/KrazePlanet/KrazePlanetTraining/tree/main/Day4
+- YTLink: https://youtu.be/KKjR3tiu7wE
 ### Timestamps
 - [`00:00:00 — Start`](https://youtu.be/KKjR3tiu7wE?t=0)
 - [`00:05:31 — Checking RXSS on [kaggle.com](http://kaggle.com/)`](https://youtu.be/KKjR3tiu7wE?t=331)
@@ -39,7 +42,8 @@ Link: https://youtu.be/KKjR3tiu7wE
 
 
 ## Day5 - Subdomain Enumeration & Port Scanning:
-Link: https://youtu.be/bUYzjOcdleI
+- GLink: https://github.com/KrazePlanet/KrazePlanetTraining/tree/main/Day5
+- YTLink: https://youtu.be/bUYzjOcdleI
 ### Timestamps
 - [`00:00:00 — Start`](https://youtu.be/bUYzjOcdleI?t=0)
 - [`00:18:02 — Passive Subdomain Enumeration (amass, subfinder)`](https://youtu.be/bUYzjOcdleI?t=1082)
@@ -48,14 +52,16 @@ Link: https://youtu.be/bUYzjOcdleI
 
 
 ## Day6 - Live Recon & Hunting on Google:
-Link: https://youtu.be/RRLIv9_KuzI
+- GLink: https://github.com/KrazePlanet/KrazePlanetTraining/tree/main/Day6
+- YTLink: https://youtu.be/RRLIv9_KuzI
 ### Timestamps
 - [`00:00:00 — Start`](https://youtu.be/RRLIv9_KuzI?t=0)
 - [`00:00:36 — Live Hunting on Google`](https://youtu.be/RRLIv9_KuzI?t=36)
 
 
 ## Day7 - Live Recon on IIS Windows Server:
-Link: https://youtu.be/VujCvjH_MeM
+- GLink: https://github.com/KrazePlanet/KrazePlanetTraining/tree/main/Day7
+- YTLink: https://youtu.be/VujCvjH_MeM
 ### Timestamps
 - [`00:00:00 — Start`](https://youtu.be/VujCvjH_MeM?t=0)
 - [`00:02:00 — Collecting IIS Windows Server using Google dorking`](https://youtu.be/VujCvjH_MeM?t=120)
@@ -63,7 +69,8 @@ Link: https://youtu.be/VujCvjH_MeM
 
 
 ## Day8 - Live Recon on IIS Windows Server - Part-2:
-Link: https://youtu.be/-g4VXviYSrQ
+- GLink: https://github.com/KrazePlanet/KrazePlanetTraining/tree/main/Day8
+- YTLink: https://youtu.be/-g4VXviYSrQ
 ### Timestamps
 - [`00:00:00 — Start`](https://youtu.be/-g4VXviYSrQ?t=0)
 - [`00:02:06 — Termius (setup && usage)`](https://youtu.be/-g4VXviYSrQ?t=126)
@@ -72,7 +79,8 @@ Link: https://youtu.be/-g4VXviYSrQ
 
 
 ## Day9 - How to find Self-Hosted Programs Using Google dorking (hidden tricks):
-Link: https://youtu.be/KPHZ7p4Snag
+- GLink: https://github.com/KrazePlanet/KrazePlanetTraining/tree/main/Day9
+- YTLink: https://youtu.be/KPHZ7p4Snag
 ### Timestamps
 - [`00:00:00 — Start`](https://youtu.be/KPHZ7p4Snag?t=0)
 - [`00:02:41 — How to find Self-Hosted Programs Using Google dorking`](https://youtu.be/KPHZ7p4Snag?t=161)
@@ -84,7 +92,8 @@ Link: https://youtu.be/KPHZ7p4Snag
 
 
 ## Day11 - Directory fuzzing & custom wordlists (special tricks):
-Link: https://youtu.be/hRAaCff5kyY
+- GLink: https://github.com/KrazePlanet/KrazePlanetTraining/tree/main/Day11
+- YTLink: https://youtu.be/hRAaCff5kyY
 ### Timestamps
 - [`00:00:00 — Start`](https://youtu.be/hRAaCff5kyY?t=0)
 - [`00:00:03 — Directory fuzzing`](https://youtu.be/hRAaCff5kyY?t=3)
@@ -93,7 +102,8 @@ Link: https://youtu.be/hRAaCff5kyY
 
 
 ## Day12 - Reflected XSS Automation:
-Link: https://youtu.be/DeWsuYi8cHE
+- GLink: https://github.com/KrazePlanet/KrazePlanetTraining/tree/main/Day12
+- YTLink: https://youtu.be/DeWsuYi8cHE
 ### Timestamps
 - [`00:00:00 — Start`](https://youtu.be/DeWsuYi8cHE?t=0)
 - [`00:06:53 — XSS lab solve`](https://youtu.be/DeWsuYi8cHE?t=413)
@@ -102,7 +112,8 @@ Link: https://youtu.be/DeWsuYi8cHE
 
 
 ## Day13 - Mass Hunting CVE using nuclei & GarudRecon Workflow:
-Link: https://youtu.be/qApDuQkBVgY
+- GLink: https://github.com/KrazePlanet/KrazePlanetTraining/tree/main/Day13
+- YTLink: https://youtu.be/qApDuQkBVgY
 ### Timestamps
 - [`00:00:00 — Start`](https://youtu.be/qApDuQkBVgY?t=0)
 - [`00:02:11 — Q&A`](https://youtu.be/qApDuQkBVgY?t=131)
@@ -116,14 +127,15 @@ Link: https://youtu.be/qApDuQkBVgY
 
 
 ## Day14 - Live Recon & Hunting on SelfHosted Program:
-Link: https://youtu.be/R67ZXdnz6w4
+- GLink: https://github.com/KrazePlanet/KrazePlanetTraining/tree/main/Day14
+- YTLink: https://youtu.be/R67ZXdnz6w4
 ### Timestamps
 - [`00:00:00 — Start`](https://youtu.be/R67ZXdnz6w4?t=0)
 - [`00:00:25 — Live Hunting on SelfHosted Program`](https://youtu.be/R67ZXdnz6w4?t=25)
 
 ## Day15 - Live Recon on IIS Windows Server - Part-3:
-Link: https://youtu.be/jGF6guVYCHk
+- GLink: https://github.com/KrazePlanet/KrazePlanetTraining/tree/main/Day15
+- YTLink: https://youtu.be/jGF6guVYCHk
 ### Timestamps
 - [`00:00:00 — Start`](https://youtu.be/jGF6guVYCHk?t=0)
 - [`00:04:40 — Automatically Guess IIS Short filename`](https://youtu.be/jGF6guVYCHk?t=280)
-
