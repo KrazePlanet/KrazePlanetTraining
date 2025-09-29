@@ -6,3 +6,31 @@
 - [`00:06:53 — XSS lab solve`](https://youtu.be/DeWsuYi8cHE?t=413)
 - [`00:31:00 — Automate boring XSS recon using xssrecon`](https://youtu.be/DeWsuYi8cHE?t=1860)
 - [`02:39:53 — GarudRecon workflow for mass RXSS`](https://youtu.be/DeWsuYi8cHE?t=9593)
+
+
+## Resources
+### Step1: collect wildcards
+- Setup: https://ez.pe/manage/account/signup
+- Replace rix4uni with your username
+
+### Step2: collect wildcards using scope
+```
+curl -s "https://raw.githubusercontent.com/rix4uni/scope/refs/heads/main/data/Wildcards/inscope_wildcards.txt" | sed 's/^\*\.//' | sed 's/^\*//' | sed 's/^\.//' | grep -v "*" | tldinfo --silent --extract domain,suffix | unew -q wildcards.txt
+```
+
+- or: self-hosted wildcards
+
+### Step3: run you workflow
+- https://github.com/KrazePlanet/KrazePlanetTraining/blob/main/Day12/kpt-massrxss-wayback.json
+- https://github.com/KrazePlanet/KrazePlanetTraining/blob/main/Day12/kpt-massrxss-katana.json
+
+Tools used:
+- subfinder
+- httpx
+- katana
+- urldedupe
+- xssrecon
+- pvreplace
+- xsschecker
+- pyxss
+- unew
