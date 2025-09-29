@@ -10,6 +10,7 @@
 
 ## Resources
 ### Step1: collect wildcards
+- https://raw.githubusercontent.com/rix4uni/WordList/refs/heads/main/payloads/xss/favourite.txt
 - Setup: https://ez.pe/manage/account/signup
 - Replace rix4uni with your username
 
@@ -25,12 +26,12 @@ curl -s "https://raw.githubusercontent.com/rix4uni/scope/refs/heads/main/data/Wi
 - https://github.com/KrazePlanet/KrazePlanetTraining/blob/main/Day12/kpt-massrxss-katana.json
 
 Tools used:
-- subfinder
-- httpx
-- katana
-- urldedupe
-- xssrecon
-- pvreplace
-- xsschecker
-- pyxss
-- unew
+- https://github.com/projectdiscovery/subfinder
+- https://github.com/projectdiscovery/httpx
+- https://github.com/projectdiscovery/katana
+- https://github.com/ameenmaali/urldedupe
+- https://github.com/rix4uni/xssrecon
+- https://github.com/rix4uni/pvreplace
+- https://github.com/rix4uni/xsschecker
+- https://github.com/rix4uni/pyxss
+- https://github.com/rix4uni/unew
