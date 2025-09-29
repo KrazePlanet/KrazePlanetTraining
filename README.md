@@ -120,3 +120,10 @@ Link: https://youtu.be/R67ZXdnz6w4
 ### Timestamps
 - [`00:00:00 — Start`](https://youtu.be/R67ZXdnz6w4?t=0)
 - [`00:00:25 — Live Hunting on SelfHosted Program`](https://youtu.be/R67ZXdnz6w4?t=25)
+
+## Day15 - Live Recon on IIS Windows Server - Part-3:
+Link: https://youtu.be/jGF6guVYCHk
+### Timestamps
+- [`00:00:00 — Start`](https://youtu.be/jGF6guVYCHk?t=0)
+- [`00:04:40 — Automatically Guess IIS Short filename`](https://youtu.be/jGF6guVYCHk?t=280)
+
