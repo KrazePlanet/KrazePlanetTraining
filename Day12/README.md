@@ -1,5 +1,5 @@
-# Day12 - Reflected XSS Automation
-[![Reflected XSS Automation](https://img.youtube.com/vi/DeWsuYi8cHE/maxresdefault.jpg)](https://youtu.be/DeWsuYi8cHE)
+# Day12 - Reflected XSS Automation:
+[![Day12 - Reflected XSS Automation:](https://img.youtube.com/vi/DeWsuYi8cHE/maxresdefault.jpg)](https://youtu.be/DeWsuYi8cHE)
 
 ## Timestamps
 - [`00:00:00 — Start`](https://youtu.be/DeWsuYi8cHE?t=0)
