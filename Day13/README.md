@@ -11,3 +11,13 @@
 - [`02:17:05 — How to Check Default Credentials`](https://youtu.be/qApDuQkBVgY?t=8225)
 - [`02:21:12 — Daily medium writeups`](https://youtu.be/qApDuQkBVgY?t=8472)
 - [`02:35:08 — Mass Hunting CVE using GarudRecon workflow`](https://youtu.be/qApDuQkBVgY?t=9308)
+
+## Resources
+- https://github.com/projectdiscovery/nuclei-templates
+- https://github.com/rix4uni/custom-nuclei-templates
+- https://github.com/rix4uni/CVE-Nuclei
+- https://github.com/rix4uni/cvemapping
+- https://github.com/rix4uni/nucleihubquery
+- https://github.com/rix4uni/Default-Credentials
+- https://github.com/rix4uni/medium-writeups
+- https://github.com/rix4uni/GarudRecon
