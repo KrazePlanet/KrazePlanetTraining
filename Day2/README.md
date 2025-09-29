@@ -8,3 +8,8 @@
 - [`01:24:44 — Favicon Info`](https://youtu.be/6L3RrbDpzDk?t=5084)
 - [`01:33:46 — ASN Information`](https://youtu.be/6L3RrbDpzDk?t=5626)
 - [`01:36:01 — Wrap Up / Next Steps`](https://youtu.be/6L3RrbDpzDk?t=5761)
+
+## Resources
+- https://github.com/rix4uni/certinfo
+- https://github.com/rix4uni/favinfo
+- https://bgp.he.net/
