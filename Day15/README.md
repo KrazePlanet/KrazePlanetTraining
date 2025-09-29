@@ -1,6 +1,6 @@
 
 ## Resources
-```
+```yaml
 wget -q https://wordlists.solotest.xyz/iis-shortnameguesser.txt.gz && gunzip iis-shortnameguesser.txt.gz
 
 
