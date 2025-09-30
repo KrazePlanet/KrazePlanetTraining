@@ -1,6 +1,12 @@
 # KrazePlanetTraining
 Free BugBounty KrazePlanetTraining
 
+# Social Links
+- **YT Channel Link**: https://www.youtube.com/@KrazePlanetSecurity
+- **KrazePlanetTraining Notion**: [https://rix4uni.notion.site/KrazePlanetTraining](https://rix4uni.notion.site/KrazePlanetTraining-26c431384fa0804e9099ea445a3e2be0?source=copy_link)
+- **KrazePlanetTraining Github**: https://github.com/KrazePlanet/KrazePlanetTraining
+- **Discord Server**: https://discord.com/invite/VGybk6BwAZ
+
 ## Day1 - Recon Basics: Burp, Dorking & Shodan Walkthrough:
 - GLink: https://github.com/KrazePlanet/KrazePlanetTraining/tree/main/Day1
 - YTLink: https://youtu.be/0AS3-Pnj8pk
@@ -139,3 +145,12 @@ Free BugBounty KrazePlanetTraining
 ### Timestamps
 - [`00:00:00 — Start`](https://youtu.be/jGF6guVYCHk?t=0)
 - [`00:04:40 — Automatically Guess IIS Short filename`](https://youtu.be/jGF6guVYCHk?t=280)
+
+## Day16 - How to Find Hidden Secrets on Github:
+- GLink: https://github.com/KrazePlanet/KrazePlanetTraining/tree/main/Day16
+- YTLink: https://youtu.be/-Ovd4ThwQg0
+### Timestamps
+- [`00:00:00 — Start`](https://youtu.be/-Ovd4ThwQg0?t=0)
+- [`00:03:37 — Why Do Github Recon?`](https://youtu.be/-Ovd4ThwQg0?t=217)
+- [`00:44:25 — Find Hidden Secrets Github using gitrepoenum`](https://youtu.be/-Ovd4ThwQg0?t=2665)
+- [`03:33:16 — Run Github Actions on nucleihubquery`](https://youtu.be/-Ovd4ThwQg0?t=12796)
