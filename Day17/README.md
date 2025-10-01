@@ -1,5 +1,13 @@
+# Day17 - SSL Certificate Recon on Shodan (Pro Tips):
+[![Day17 - SSL Certificate Recon on Shodan (Pro Tips):](https://img.youtube.com/vi/Xc6-JihvckQ/maxresdefault.jpg)](https://youtu.be/Xc6-JihvckQ)
+## Timestamps
+- [`00:00:00 — Start`](https://youtu.be/Xc6-JihvckQ?t=0)
+- [`00:16:51 — DotGit Recon`](https://youtu.be/Xc6-JihvckQ?t=1011)
+- [`01:01:32 — Find Critical Bugs Using Shodan Recon`](https://youtu.be/Xc6-JihvckQ?t=3692)
+- [`01:37:30 — Find Jenkins Critical Issues Within Minutes`](https://youtu.be/Xc6-JihvckQ?t=5850)
+- [`01:56:44 — Automate Shodan Recon`](https://youtu.be/Xc6-JihvckQ?t=7004)
 
-
+# Resources
 ```
 cat subs.txt | unew | nuclei -t git-config-files.yaml
 ```
@@ -10,7 +18,7 @@ goop https://domain.com
 
 
 ### Method1
-```
+```bash
 ### Step1: collect wildcards using scope
 curl -s "https://raw.githubusercontent.com/rix4uni/scope/refs/heads/main/data/Wildcards/inscope_wildcards.txt" | sed 's/^\*\.//' | sed 's/^\*//' | sed 's/^\.//' | grep -v "*" | tldinfo --silent --extract domain,suffix | unew -q wildcards.txt
 curl -s "https://raw.githubusercontent.com/KrazePlanet/KrazePlanetPrograms/refs/heads/main/programs.json" | jq -r '.[].inscope_domains[]' | sed 's/^\*\.//' | sed 's/^\*//' | sed 's/^\.//' | grep -v "*" | tldinfo --silent --extract domain,suffix | unew wildcards.txt
@@ -24,7 +32,7 @@ cat ips.txt | unew | nuclei -duc -silent -nc -t unauthenticated-jenkins-rce.yaml
 ```
 
 ### Method2
-```
+```bash
 ### Step1: collect wildcards using scope
 curl -s "https://raw.githubusercontent.com/rix4uni/scope/refs/heads/main/data/Wildcards/inscope_wildcards.txt" | sed 's/^\*\.//' | sed 's/^\*//' | sed 's/^\.//' | grep -v "*" | tldinfo --silent --extract domain,suffix | unew -q wildcards.txt
 curl -s "https://raw.githubusercontent.com/KrazePlanet/KrazePlanetPrograms/refs/heads/main/programs.json" | jq -r '.[].inscope_domains[]' | sed 's/^\*\.//' | sed 's/^\*//' | sed 's/^\.//' | grep -v "*" | tldinfo --silent --extract domain,suffix | unew wildcards.txt
@@ -37,7 +45,7 @@ cat subs.httpx | nuclei -duc -silent -nc -t unauthenticated-jenkins-rce.yaml | u
 ```
 
 ### Find vuln using shodan with ipfinder
-```
+```bash
 echo 'ssl:"shopify.com"' | ipfinder shodan --silent | portmap internetdb | grep -Eo '([0-9]{1,3}\.){3}[0-9]{1,3}(:[0-9]+)?' | unew -el shopify.com.portmap
 
 while IFS= read -r line; do ip=$(echo "$line" | certinfo -silent -san 2>/dev/null); echo "$ip $result"; done < shopify.com.portmap | unew -el shopify.com.certinfo
