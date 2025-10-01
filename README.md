@@ -154,3 +154,13 @@ Free BugBounty KrazePlanetTraining
 - [`00:03:37 — Why Do Github Recon?`](https://youtu.be/-Ovd4ThwQg0?t=217)
 - [`00:44:25 — Find Hidden Secrets Github using gitrepoenum`](https://youtu.be/-Ovd4ThwQg0?t=2665)
 - [`03:33:16 — Run Github Actions on nucleihubquery`](https://youtu.be/-Ovd4ThwQg0?t=12796)
+
+## Day17 - SSL Certificate Recon on Shodan (Pro Tips):
+- GLink: https://github.com/KrazePlanet/KrazePlanetTraining/tree/main/Day17
+- YTLink: https://youtu.be/Xc6-JihvckQ
+### Timestamps
+- [`00:00:00 — Start`](https://youtu.be/Xc6-JihvckQ?t=0)
+- [`00:16:51 — DotGit Recon`](https://youtu.be/Xc6-JihvckQ?t=1011)
+- [`01:01:32 — Find Critical Bugs Using Shodan Recon`](https://youtu.be/Xc6-JihvckQ?t=3692)
+- [`01:37:30 — Find Jenkins Critical Issues Within Minutes`](https://youtu.be/Xc6-JihvckQ?t=5850)
+- [`01:56:44 — Automate Shodan Recon`](https://youtu.be/Xc6-JihvckQ?t=7004)
