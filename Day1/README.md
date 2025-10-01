@@ -30,5 +30,7 @@
 - https://github.com/rix4uni/Bug-Bounty-Tampermonkey-Scripts/raw/refs/heads/main/Copy%20Strong%20Tag%20Values%20on%20shodan.user.js
 - https://github.com/rix4uni/Bug-Bounty-Tampermonkey-Scripts/raw/refs/heads/main/Google-Reload-All-&-Current-Tab-Button.user.js
 - https://github.com/rix4uni/Bug-Bounty-Tampermonkey-Scripts/raw/refs/heads/main/Remove-Crunchbase-Paywall.user.js
+- https://github.com/rix4uni/Bug-Bounty-Tampermonkey-Scripts/raw/refs/heads/main/Copy%20href%20values%20from%20shodan%20to%20clipboard.user.js
 - https://dorks.krazeplanet.com/crunchbase/
 - https://github.com/rix4uni/ipfinder
+
