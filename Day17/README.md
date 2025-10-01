@@ -1,5 +1,7 @@
 # Day17 - SSL Certificate Recon on Shodan (Pro Tips):
 [![Day17 - SSL Certificate Recon on Shodan (Pro Tips):](https://img.youtube.com/vi/Xc6-JihvckQ/maxresdefault.jpg)](https://youtu.be/Xc6-JihvckQ)
+<img width="1912" height="1020" alt="2025-10-01 19_43_07" src="https://github.com/user-attachments/assets/0664c5c7-90fa-4261-b1b0-35f3436212b7" />
+
 ## Timestamps
 - [`00:00:00 — Start`](https://youtu.be/Xc6-JihvckQ?t=0)
 - [`00:16:51 — DotGit Recon`](https://youtu.be/Xc6-JihvckQ?t=1011)
