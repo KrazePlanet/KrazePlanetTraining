@@ -164,3 +164,10 @@ Free BugBounty KrazePlanetTraining
 - [`01:01:32 — Find Critical Bugs Using Shodan Recon`](https://youtu.be/Xc6-JihvckQ?t=3692)
 - [`01:37:30 — Find Jenkins Critical Issues Within Minutes`](https://youtu.be/Xc6-JihvckQ?t=5850)
 - [`01:56:44 — Automate Shodan Recon`](https://youtu.be/Xc6-JihvckQ?t=7004)
+
+## Day18 - Live Bug Bounty Hunting on Google - wiz.io:
+- GLink: https://github.com/KrazePlanet/KrazePlanetTraining/tree/main/Day18
+- YTLink: https://youtu.be/_mcjEwWrUK8
+### Timestamps
+- [`00:00:00 — Start`](https://youtu.be/_mcjEwWrUK8?t=0)
+- [`00:00:15 — Live Bug Bounty Hunting on Google`](https://youtu.be/_mcjEwWrUK8?t=15)
