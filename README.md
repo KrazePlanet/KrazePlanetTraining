@@ -34,8 +34,12 @@ Free BugBounty KrazePlanetTraining
 - [`01:36:01 — Wrap Up / Next Steps`](https://youtu.be/6L3RrbDpzDk?t=5761)
 
 
-## Day3 - No one recorded that video
-- Solved all XSS labs https://labs.krazeplanet.com/xss/
+## Day3 - How to Detect Reflected XSS (Step by Step):
+- GLink: https://github.com/KrazePlanet/KrazePlanetTraining/tree/main/Day3
+- YTLink: https://youtu.be/CE7kWshPK2M
+### Timestamps
+- [`00:00:00 — Start`](https://youtu.be/CE7kWshPK2M?t=0)
+- [`00:00:05 — How to Detect Reflected XSS`](https://youtu.be/CE7kWshPK2M?t=5)
 
 
 ## Day4 - Live Bug Bounty Hunting on Google:
