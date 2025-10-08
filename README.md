@@ -182,3 +182,10 @@ Free BugBounty KrazePlanetTraining
 ### Timestamps
 - [`00:00:00 — Start`](https://youtu.be/JnwFhs7sm2Y?t=0)
 - [`00:00:13 — Live Bug Bounty Hunting on Google - WildfireLabs`](https://youtu.be/JnwFhs7sm2Y?t=13)
+
+## Day20 — Live Bug Bounty Hunting & Recon on Google:
+- GLink: https://github.com/KrazePlanet/KrazePlanetTraining/tree/main/Day20
+- YTLink: https://youtu.be/SZLpbE1Ysy0
+### Timestamps
+- [`00:00:00 — Start`](https://youtu.be/SZLpbE1Ysy0?t=0)
+- [`00:03:51 — Live Bug Bounty Hunting & Recon on Google`](https://youtu.be/SZLpbE1Ysy0?t=231)
