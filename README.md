@@ -213,3 +213,10 @@ Free BugBounty KrazePlanetTraining
 - [`03:37:56 — Create custom GarudRecon workflows`](https://youtu.be/KPHZ7p4Snag?t=13076)
 - [`02:39:53 — GarudRecon workflow for mass RXSS`](https://youtu.be/DeWsuYi8cHE?t=9593)
 - [`02:35:08 — Mass Hunting CVE using GarudRecon workflow`](https://youtu.be/qApDuQkBVgY?t=9308)
+
+## Day22 — Live Bug Bounty Hunting Google+ Reflected XSS (Real-Time Recon):
+- GLink: https://github.com/KrazePlanet/KrazePlanetTraining/tree/main/Day22
+- YTLink: https://youtu.be/ftNinJeOHHo
+### Timestamps
+- [`00:00:00 — Start`](https://youtu.be/ftNinJeOHHo?t=0)
+- [`00:00:03 — Live Bug Bounty Hunting Google+ Reflected XSS`](https://youtu.be/ftNinJeOHHo?t=3)
