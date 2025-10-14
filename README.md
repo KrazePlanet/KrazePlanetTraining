@@ -189,3 +189,26 @@ Free BugBounty KrazePlanetTraining
 ### Timestamps
 - [`00:00:00 — Start`](https://youtu.be/SZLpbE1Ysy0?t=0)
 - [`00:03:51 — Live Bug Bounty Hunting & Recon on Google`](https://youtu.be/SZLpbE1Ysy0?t=231)
+
+## Day21 — How to Install & Configure GarudRecon (DigitalOcean + WSL) — Full Walkthrough:
+- GLink: https://github.com/KrazePlanet/KrazePlanetTraining/tree/main/Day21
+- YTLink: https://youtu.be/TgrTqJrIdZY
+### Timestamps
+- [`00:00:00 — Start`](https://youtu.be/TgrTqJrIdZY?t=0)
+- [`00:00:05 — What is GarudRecon`](https://youtu.be/TgrTqJrIdZY?t=5)
+- [`00:01:03 — GarudRecon Operating Systems Tested`](https://youtu.be/TgrTqJrIdZY?t=63)
+- [`00:01:54 — GarudRecon Configuration`](https://youtu.be/TgrTqJrIdZY?t=114)
+- [`00:21:45 — GarudRecon Installation (DigitalOcean + WSL)`](https://youtu.be/TgrTqJrIdZY?t=1305)
+- [`00:51:13 — Discord Webhook Setup`](https://youtu.be/TgrTqJrIdZY?t=3073)
+- [`02:04:11 — SmallScope Mode`](https://youtu.be/TgrTqJrIdZY?t=7451)
+- [`02:13:10 — MediumScope Mode`](https://youtu.be/TgrTqJrIdZY?t=7990)
+- [`02:36:31 — LargeScope Mode`](https://youtu.be/TgrTqJrIdZY?t=9391)
+- [`03:02:41 — CidrScope Mode`](https://youtu.be/TgrTqJrIdZY?t=10961)
+- [`03:06:25 — Workflow Mode`](https://youtu.be/TgrTqJrIdZY?t=11185)
+- [`03:19:49 — Fleet Mode`](https://youtu.be/TgrTqJrIdZY?t=11989)
+- [`03:22:34 — CronJobs Mode`](https://youtu.be/TgrTqJrIdZY?t=12154)
+- [`03:25:05 — GarudRecon Short commands`](https://youtu.be/TgrTqJrIdZY?t=12305)
+### Recommended Timestamps for `GarudRecon workflows`
+- [`03:37:56 — Create custom GarudRecon workflows`](https://youtu.be/KPHZ7p4Snag?t=13076)
+- [`02:39:53 — GarudRecon workflow for mass RXSS`](https://youtu.be/DeWsuYi8cHE?t=9593)
+- [`02:35:08 — Mass Hunting CVE using GarudRecon workflow`](https://youtu.be/qApDuQkBVgY?t=9308)
