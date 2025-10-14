@@ -5,6 +5,7 @@ Free BugBounty KrazePlanetTraining
 - **YT Channel Link**: https://www.youtube.com/@KrazePlanetSecurity
 - **KrazePlanetTraining Notion**: [https://rix4uni.notion.site/KrazePlanetTraining](https://rix4uni.notion.site/KrazePlanetTraining-26c431384fa0804e9099ea445a3e2be0?source=copy_link)
 - **KrazePlanetTraining Github**: https://github.com/KrazePlanet/KrazePlanetTraining
+- **KrazePlanetData Github**: https://github.com/KrazePlanet/KrazePlanetData
 - **Discord Server**: https://discord.com/invite/VGybk6BwAZ
 
 ## Day1 - Recon Basics: Burp, Dorking & Shodan Walkthrough:
