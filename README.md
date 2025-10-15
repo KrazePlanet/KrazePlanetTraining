@@ -220,3 +220,11 @@ Free BugBounty KrazePlanetTraining
 ### Timestamps
 - [`00:00:00 — Start`](https://youtu.be/ftNinJeOHHo?t=0)
 - [`00:00:03 — Live Bug Bounty Hunting Google+ Reflected XSS`](https://youtu.be/ftNinJeOHHo?t=3)
+
+## Day23 — Live Bug Bounty Hunting Google+ (Login Pages SQLI):
+- GLink: https://github.com/KrazePlanet/KrazePlanetTraining/tree/main/Day23
+- YTLink: https://youtu.be/21zksi932ig
+### Timestamps
+- [`00:00:00 — Start`](https://youtu.be/21zksi932ig?t=0)
+- [`00:33:26 — Login Pages Default Credentials`](https://youtu.be/21zksi932ig?t=2006)
+- [`01:19:06 — Checking Sensitive Information on Github`](https://youtu.be/21zksi932ig?t=4746)
