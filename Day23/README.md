@@ -34,3 +34,4 @@ filename:secrets.yml password
 ```
 
 - https://recon.vulninsights.codes/
+- https://about.google/brand-resource-center/trademark-list/
