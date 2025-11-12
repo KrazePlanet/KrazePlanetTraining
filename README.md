@@ -228,3 +228,7 @@ Free BugBounty KrazePlanetTraining
 - [`00:00:00 — Start`](https://youtu.be/21zksi932ig?t=0)
 - [`00:33:26 — Login Pages Default Credentials`](https://youtu.be/21zksi932ig?t=2006)
 - [`01:19:06 — Checking Sensitive Information on Github`](https://youtu.be/21zksi932ig?t=4746)
+
+## Day36 — How to Find Javascript Recursively:
+- GLink: https://github.com/KrazePlanet/KrazePlanetTraining/tree/main/Day36
+- YTLink: https://youtu.be/E-7bcO7dJ0c
