@@ -232,3 +232,7 @@ Free BugBounty KrazePlanetTraining
 ## Day36 — How to Find Javascript Recursively:
 - GLink: https://github.com/KrazePlanet/KrazePlanetTraining/tree/main/Day36
 - YTLink: https://youtu.be/E-7bcO7dJ0c
+
+## Day37 — Live Bug Bounty Hunting on Google+ (Fuzzing tips):
+- GLink: https://github.com/KrazePlanet/KrazePlanetTraining/tree/main/Day37
+- YTLink: https://youtu.be/KBB-8hycT_0
