@@ -3,4 +3,4 @@
 
 ## Resources
 - https://github.com/rix4uni/fofa-selenium/raw/d76a87325941336e8db1e2b03ec569f9240bc0aa/fofa_v2.zip
-- ffuf_automation.sh
+- https://github.com/rix4uni/WordList/blob/main/advanced_sensitive_wordlist.txt
