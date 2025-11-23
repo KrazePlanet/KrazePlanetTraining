@@ -236,3 +236,7 @@ Free BugBounty KrazePlanetTraining
 ## Day37 — Live Bug Bounty Hunting on Google+ (Fuzzing tips):
 - GLink: https://github.com/KrazePlanet/KrazePlanetTraining/tree/main/Day37
 - YTLink: https://youtu.be/KBB-8hycT_0
+
+## Day39 — Find Sensitive information in PDF using pdftotext:
+- GLink: https://github.com/KrazePlanet/KrazePlanetTraining/tree/main/Day39
+- YTLink: https://youtu.be/AWApqbZjJlI
