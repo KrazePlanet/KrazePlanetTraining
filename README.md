@@ -240,3 +240,7 @@ Free BugBounty KrazePlanetTraining
 ## Day39 — Find Sensitive information in PDF using pdftotext:
 - GLink: https://github.com/KrazePlanet/KrazePlanetTraining/tree/main/Day39
 - YTLink: https://youtu.be/AWApqbZjJlI
+
+## Day40 — Find Sensitive information in PDF using pdftotext (Part 2):
+- GLink: https://github.com/KrazePlanet/KrazePlanetTraining/tree/main/Day40
+- YTLink: https://youtu.be/s9kHETmbFFI
