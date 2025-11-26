@@ -248,3 +248,7 @@ Free BugBounty KrazePlanetTraining
 ## Day41 — Find Sensitive information in PDF using pdftotext (Part 3):
 - GLink: https://github.com/KrazePlanet/KrazePlanetTraining/tree/main/Day41
 - YTLink: https://youtu.be/fI_Bs-XQJSE
+
+## Day42 — How to Find Blind Time Based SQLI:
+- GLink: https://github.com/KrazePlanet/KrazePlanetTraining/tree/main/Day42
+- YTLink: https://youtu.be/nHf3P-infDM
