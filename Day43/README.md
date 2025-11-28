@@ -35,4 +35,5 @@ Tools used:
 - https://github.com/rix4uni/gosqli
 - https://github.com/rix4uni/paramfinder
 - https://github.com/rix4uni/msarjun
+- https://github.com/rix4uni/stoppiracy
 - https://github.com/Sh1Yo/x8
