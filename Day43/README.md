@@ -23,7 +23,7 @@ Find Hidden parameter with `.php, asp, .aspx, .jsp, .jsp, .xml`
 wget https://github.com/rix4uni/top-1m-domains/raw/refs/heads/master/alldomains.txt.gz
 gunzip alldomains.txt.gz
 
-cat alldomains.txt | tldinfo --silent --extract domain,suffix | unew | unew -divide 100 chunk/chunk_
+cat alldomains.txt | tldinfo --silent --extract domain,suffix | grep "\." | unew | unew -divide 100 chunk/chunk_
 
 cat chunk/chunk_48 | stoppiracy --silent --wordlist "Eligible Targets,reward,bounty,monetary,compensation,we offer a monetary,We offer reward,monetary reward,eligible for a reward,we award a bounty,We offer monetary rewards"
 ```
