@@ -252,3 +252,12 @@ Free BugBounty KrazePlanetTraining
 ## Day42 — How to Find Blind Time Based SQLI:
 - GLink: https://github.com/KrazePlanet/KrazePlanetTraining/tree/main/Day42
 - YTLink: https://youtu.be/nHf3P-infDM
+
+## Day43 — How to Find Blind Time Based SQLI (Part 2):
+- GLink: https://github.com/KrazePlanet/KrazePlanetTraining/tree/main/Day43
+- YTLink: https://youtu.be/U9ICiDnuE0o
+### Timestamps
+- [`00:00:00 — Start`](https://youtu.be/U9ICiDnuE0o?t=0)
+- [`00:00:04 — Google Dorking`](https://youtu.be/U9ICiDnuE0o?t=4)
+- [`00:16:57 — SQLI Automation`](https://youtu.be/U9ICiDnuE0o?t=1017)
+- [`02:13:01 — New Way to Find SelfHosted Programs`](https://youtu.be/U9ICiDnuE0o?t=7981)
