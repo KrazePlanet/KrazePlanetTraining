@@ -272,3 +272,11 @@ Free BugBounty KrazePlanetTraining
 - [`02:03:22 — DuckDuckGo Dorking`](https://youtu.be/U6kxvbMMh-s?t=7402)
 - [`02:16:17 — Get Latest cve notification with cvemapping`](https://youtu.be/U6kxvbMMh-s?t=8177)
 - [`03:12:10 — Remove Unnecessary urls`](https://youtu.be/U6kxvbMMh-s?t=11530)
+
+## Day48 — How to Find Origin IP with originiphunter:
+- GLink: https://github.com/KrazePlanet/KrazePlanetTraining/tree/main/Day48
+- YTLink: https://youtu.be/boIzVY93tL0
+## Timestamps
+- [`00:00:00 — Start`](https://youtu.be/boIzVY93tL0?t=0)
+- [`00:00:33 — Origin IP Hunting`](https://youtu.be/boIzVY93tL0?t=33)
+- [`01:46:08 — CTF Explaination for Free Course`](https://youtu.be/boIzVY93tL0?t=6368)
