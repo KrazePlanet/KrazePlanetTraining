@@ -280,3 +280,7 @@ Free BugBounty KrazePlanetTraining
 - [`00:00:00 — Start`](https://youtu.be/boIzVY93tL0?t=0)
 - [`00:00:33 — Origin IP Hunting`](https://youtu.be/boIzVY93tL0?t=33)
 - [`01:46:08 — CTF Explaination for Free Course`](https://youtu.be/boIzVY93tL0?t=6368)
+
+## Day50 — Local File Inclusion: From Basics to Fully Automated Attacks:
+- GLink: https://github.com/KrazePlanet/KrazePlanetTraining/tree/main/Day50
+- YTLink: https://youtu.be/TvmmrOIS0BM
