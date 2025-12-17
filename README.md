@@ -284,3 +284,7 @@ Free BugBounty KrazePlanetTraining
 ## Day50 — Local File Inclusion: From Basics to Fully Automated Attacks:
 - GLink: https://github.com/KrazePlanet/KrazePlanetTraining/tree/main/Day50
 - YTLink: https://youtu.be/TvmmrOIS0BM
+
+## Day56 — Live Recon on IIS Windows Server - Part-4:
+- GLink: https://github.com/KrazePlanet/KrazePlanetTraining/tree/main/Day56
+- YTLink: https://youtu.be/KFN8_wzslRs
